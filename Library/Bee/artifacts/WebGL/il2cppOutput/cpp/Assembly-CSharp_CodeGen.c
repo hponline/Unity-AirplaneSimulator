@@ -1,0 +1,83 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void FollowPlayerX_Start_mE73AEAF1AE3395058DDD44681F9CC519DD2692F6 (void);
+extern void FollowPlayerX_Update_m657B1EB411925E30C5169B39F524D340503E0F26 (void);
+extern void FollowPlayerX__ctor_m95820EBAEB39F06210CD082F86E5B37AFDCB3ECE (void);
+extern void Pervane_Start_mBBEFE0AB14A25C3F0A631248ED961AA2FBF2F7B7 (void);
+extern void Pervane_Update_m32EDD505314AF71328D42B4C254DF56DC83D5E5F (void);
+extern void Pervane__ctor_mE8A8B88A672632BF814FF53121CBA33D41179B1A (void);
+extern void PlayerControllerX_Start_m5BAE410291E1DABAC99D3F233D14AF0AA072A606 (void);
+extern void PlayerControllerX_Update_mE690DFA5B4D44A839AC48EC903E382790B5CCC8B (void);
+extern void PlayerControllerX__ctor_m3FFA731641AD6FA1CE627820042B7587E98D535A (void);
+extern void RUFCzgarTUFCrbini_Start_mF138D20D88B74685E31D0208E93F6163A838AE04 (void);
+extern void RUFCzgarTUFCrbini_Update_m74E214CA6BA7F548BEA96F1AC5CD47D95B320752 (void);
+extern void RUFCzgarTUFCrbini__ctor_m96DFFA30C9FA4BD0F071CCA56589907EC11CA51C (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[14] = 
+{
+	FollowPlayerX_Start_mE73AEAF1AE3395058DDD44681F9CC519DD2692F6,
+	FollowPlayerX_Update_m657B1EB411925E30C5169B39F524D340503E0F26,
+	FollowPlayerX__ctor_m95820EBAEB39F06210CD082F86E5B37AFDCB3ECE,
+	Pervane_Start_mBBEFE0AB14A25C3F0A631248ED961AA2FBF2F7B7,
+	Pervane_Update_m32EDD505314AF71328D42B4C254DF56DC83D5E5F,
+	Pervane__ctor_mE8A8B88A672632BF814FF53121CBA33D41179B1A,
+	PlayerControllerX_Start_m5BAE410291E1DABAC99D3F233D14AF0AA072A606,
+	PlayerControllerX_Update_mE690DFA5B4D44A839AC48EC903E382790B5CCC8B,
+	PlayerControllerX__ctor_m3FFA731641AD6FA1CE627820042B7587E98D535A,
+	RUFCzgarTUFCrbini_Start_mF138D20D88B74685E31D0208E93F6163A838AE04,
+	RUFCzgarTUFCrbini_Update_m74E214CA6BA7F548BEA96F1AC5CD47D95B320752,
+	RUFCzgarTUFCrbini__ctor_m96DFFA30C9FA4BD0F071CCA56589907EC11CA51C,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[14] = 
+{
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	2160,
+	1119,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	14,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
